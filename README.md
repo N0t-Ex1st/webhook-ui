@@ -1,5 +1,5 @@
 # webhook-ui (webhook tool)
-Discord webhook spammer, deleter(term) and some info grubber. If u find any bag, write in issues
+Discord webhook spammer, deleter(term) and some info grubber with GUI. If u find any bag, write in issues
 
 
 # Enter menu
